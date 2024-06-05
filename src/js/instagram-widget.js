@@ -17,7 +17,7 @@ const settings = {
       {
         method: "GET",
         headers: {
-          "x-rapidapi-key": "rapid-key-here",
+          "x-rapidapi-key": "4269ad4d8cmsh72ab1b1fcf364a9p13206djsnbe4b84cbd390",
           "x-rapidapi-host": "instagram40.p.rapidapi.com",
         },
       }
